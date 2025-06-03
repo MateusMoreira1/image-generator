@@ -1,6 +1,6 @@
-# 🤖 AI Image Generator (Flutter + Hugging Face)
+# 🤖 AI Image Generator 
 
-Este é um aplicativo Flutter que gera imagens a partir de descrições de texto (**prompts**) utilizando o modelo **Stable Diffusion** da Hugging Face. Com uma interface moderna baseada em **Material 3**, o app permite alternância entre temas claro/escuro, controle de parâmetros e é compatível com Flutter Web.
+Este é um aplicativo Flutter que gera imagens a partir de descrições de texto (**prompts**) utilizando o modelo **Stable Diffusion** da Hugging Face. Com uma interface moderna, o app permite alternância entre temas claro/escuro, controle de parâmetros e é compatível com Flutter Web.
 
 ---
 
@@ -85,7 +85,6 @@ Você pode hospedar essa versão em:
 - Dart  
 - Hugging Face API  
 - Modelo: Stable Diffusion (via Diffusers)  
-- Material 3  
 - Flutter Web  
 
 ---
