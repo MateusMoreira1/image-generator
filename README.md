@@ -1,6 +1,6 @@
-# 🤖 AI Image Generator 
+# 🤖 AI Image Generator
 
-Este é um aplicativo Flutter que gera imagens a partir de descrições de texto (**prompts**) utilizando o modelo **Stable Diffusion** da Hugging Face. Com uma interface moderna, o app permite alternância entre temas claro/escuro, controle de parâmetros e é compatível com Flutter Web.
+Este é um aplicativo Flutter que gera imagens a partir de descrições em texto (**prompts**) utilizando o modelo **Stable Diffusion** da Hugging Face. Com uma interface moderna e responsiva, o app oferece suporte a temas claro e escuro, personalização de parâmetros de geração e é compatível com Flutter Web.
 
 ---
 
@@ -17,7 +17,7 @@ lib/
 
 ---
 
-## 📦 Como Instalar e Executar
+## 📦 Instalação e Execução
 
 ### 1. Clone o repositório
 
@@ -38,7 +38,7 @@ flutter pub get
 flutter run
 ```
 
-### 4. Executando como app web (Flutter Web)
+### 4. Execute como app web (Flutter Web)
 
 ```bash
 flutter run -d chrome
@@ -50,29 +50,29 @@ flutter run -d chrome
 flutter build web
 ```
 
-Você pode hospedar essa versão em:
+Essa versão pode ser hospedada em:
 
-- GitHub Pages
-- Vercel
-- Netlify
-- Firebase Hosting
+- GitHub Pages  
+- Vercel  
+- Netlify  
+- Firebase Hosting  
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- ✅ Entrada de texto para prompt da imagem  
+- ✅ Entrada de texto para **prompt** da imagem  
 - ✅ Ajuste de parâmetros como `guidance_scale` e `negative_prompt`  
 - ✅ Alternância entre tema claro e escuro  
 - ✅ Geração de imagem com feedback visual  
-- ✅ Interface moderna e responsiva com Material 3  
+- ✅ Interface moderna e responsiva
 - ✅ Compatível com Flutter Web  
 
 ---
 
-## 📷 Exemplo de Uso
+## 📷 Como Usar
 
-1. Digite um prompt (ex: "A fantasy castle in the clouds")  
+1. Digite um prompt (ex: *"A fantasy castle in the clouds"*)  
 2. Ajuste os parâmetros de geração, se desejar  
 3. Toque em **Gerar Imagem**  
 4. Visualize a imagem gerada diretamente no app  
@@ -101,13 +101,13 @@ Você pode hospedar essa versão em:
 
 🎥 Assista à demonstração do app no vídeo abaixo:
 
-📂 **GeradorDeImg.mp4**
+📂 [`GeradorDeImg.mp4`](./GeradorDeImg.mp4)
 
-> Sugestão: hospedar no YouTube, Google Drive ou outro serviço e inserir o link aqui para facilitar o acesso dos avaliadores.
+> 💡 Você pode baixar ou abrir o vídeo diretamente no navegador clicando no link acima.
 
 ---
 
-## 🌍 Teste a Versão Web
+## 🌍 Teste Online
 
 Você pode testar a aplicação diretamente no navegador:
 
@@ -115,9 +115,9 @@ Você pode testar a aplicação diretamente no navegador:
 
 ---
 
-## 🧠 Desenvolvimento
+## 🧠 Sobre o Projeto
 
-Este projeto foi desenvolvido por **Mateus Moreira** como parte de um estudo sobre:
+Este projeto foi desenvolvido por **Mateus Moreira** como parte de um estudo prático sobre:
 
 - Desenvolvimento mobile e web com Flutter  
 - Integração com APIs externas  
@@ -128,5 +128,5 @@ Este projeto foi desenvolvido por **Mateus Moreira** como parte de um estudo sob
 
 ## 📜 Licença
 
-Este projeto é livre para uso educacional.  
-Para usos comerciais, verifique os termos de uso da Hugging Face e do modelo Stable Diffusion.
+Este projeto é de uso livre para fins educacionais.  
+Para fins comerciais, consulte os termos de uso da Hugging Face e do modelo Stable Diffusion.
