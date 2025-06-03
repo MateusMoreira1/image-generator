@@ -101,9 +101,8 @@ Essa versão pode ser hospedada em:
 
 🎥 Assista à demonstração do app no vídeo abaixo:
 
-📂 [`GeradorDeImg.mp4`](./GeradorDeImg.mp4)
+https://github.com/user-attachments/assets/9391c5ff-6acc-4f47-a1a2-4fd40ca01e71
 
-> 💡 Você pode baixar ou abrir o vídeo diretamente no navegador clicando no link acima.
 
 ---
 
